@@ -1,1 +1,2 @@
 function sum() {}
+function multiply() {}
